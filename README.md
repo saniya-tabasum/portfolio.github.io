@@ -1,12 +1,12 @@
 # portfolio.github.io
 ## Portfolio
 
-### Hello, I'm [Your Name] 👋
+### Hello, I'm [Saniya tabasum] 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: A short description of your project.
+- **Project 1**: The purpose of waste management and recycling automation is to improve efficiency, increase recycling rates, reduce environmental impact, cut costs, enhance worker safety, promote a circular economy, and ensure compliance with regulations. It leverages technology to streamline waste handling, optimize resource recovery, and support sustainable practices..
 - **Project 2**: A short description of another project.
 
 ## 🚀 Skills
@@ -21,18 +21,18 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ## Portfolio Topic
 
 <dl>
-<dt>Course Name</dt>
+<dt>Portfolio topic</dt>
 <dd>Algorithmic Problem Solving</dd>
-<dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dt>Couse code</dt>
+<dd>15ECSC208</dd>
 <dt>Name</dt>
-<dd>Your Name</dd>
+<ddSaniya tabasum</dd>
 <dt>SRN</dt>
-<dd>Your SRN</dd>
+<dd>02FE23BCS190</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>Prof Vaishali Y prabha </dd>
 <dt>University</dt>
-<dd>Your University Name</dd>
+<dd>KLE technological university</dd>
 <dt>Portfolio Topic/Domain</dt>
 <dd>Google</dd>
 </dl>
