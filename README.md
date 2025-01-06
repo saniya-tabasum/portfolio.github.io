@@ -26,7 +26,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Couse code</dt>
 <dd>15ECSC208</dd>
 <dt>Name</dt>
-<ddSaniya tabasum</dd>
+<ddSaniyatabasum</dd>
 <dt>SRN</dt>
 <dd>02FE23BCS190</dd>
 <dt>Course Instructor</dt>
