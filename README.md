@@ -15,8 +15,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [GitHub](https://github.com/your-github-saniya-tabasum)
+- [LinkedIn](https://www.linkedin.com/in/saniya-tabasum-0942ba2a8)
 
 ## Portfolio Topic
 
