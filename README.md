@@ -6,7 +6,7 @@
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: The purpose of waste management and recycling automation is to improve efficiency, increase recycling rates, reduce environmental impact, cut costs, enhance worker safety, promote a circular economy, and ensure compliance with regulations. It leverages technology to streamline waste handling, optimize resource recovery, and support sustainable practices..
+- **Waste Management and Recyclying Automation**: The purpose of waste management and recycling automation is to improve efficiency, increase recycling rates, reduce environmental impact, cut costs, enhance worker safety, promote a circular economy, and ensure compliance with regulations. It leverages technology to streamline waste handling, optimize resource recovery, and support sustainable practices..
 
 
 ## 🚀 Skills
